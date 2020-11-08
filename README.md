@@ -2,7 +2,7 @@
 
 Python app that given input images, uses https://github.com/ageitgey/face_recognition to recognize faces.
 
-# To Do:
+### To Do:
 Make GUI for uploading images, function buttons and camera support.
 
 ### Dependencies
